@@ -1,11 +1,11 @@
 {
-    "name": "kravanh/unit_conversions",
+    "name": "kravanh/unit-conversions",
     "description": "This is my package UnitConversions",
     "keywords": [
         "kravanh",
-        "unit_conversions"
+        "unit conversions"
     ],
-    "homepage": "https://github.com/kravanh/unit_conversions",
+    "homepage": "https://github.com/ketsakda/unit-conversions",
     "license": "MIT",
     "authors": [
         {
