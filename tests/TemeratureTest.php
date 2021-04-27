@@ -9,7 +9,7 @@ class TemeratureTest extends TestCase
 {
     public function test_it_can_convert_celsius_to_fahrenheit()
     {
-        $fahrenheit = Temerature::forCelsius(100)->toFahrenheit();
+        $fahrenheit = Temerature::fromCelsius(100)->toFahrenheit();
         $this->assertEquals(212, $fahrenheit);
     }
 }
