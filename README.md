@@ -1,9 +1,9 @@
 # This is my package UnitConversions
 
 ---
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/vendor_slug/package_slug.svg?style=flat-square)](https://packagist.org/packages/ketsakda/unit-conversions)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/vendor_slug/package_slug/run-tests?label=tests)](https://github.com/ketsakda/unit-conversions/actions?query=workflow%3ATests+branch%3Amaster)
-[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/vendor_slug/package_slug/Check%20&%20fix%20styling?label=code%20style)](https://github.com/ketsakda/unit-conversions/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amaster)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/ketsakda/unit-conversions.svg?style=flat-square)](https://packagist.org/packages/ketsakda/unit-conversions)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/ketsakda/unit-conversions/run-tests?label=tests)](https://github.com/ketsakda/unit-conversions/actions?query=workflow%3ATests+branch%3Amaster)
+[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/ketsakda/unit-conversions/Check%20&%20fix%20styling?label=code%20style)](https://github.com/ketsakda/unit-conversions/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amaster)
 [![Total Downloads](https://img.shields.io/packagist/dt/ketsakda/unit-conversions.svg?style=flat-square)](https://packagist.org/packages/ketsakda/unit-conversions)
 ---
 ## Installation
