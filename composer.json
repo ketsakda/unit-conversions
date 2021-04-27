@@ -1,5 +1,5 @@
 {
-    "name": "kravanh/unit-conversions",
+    "name": "ketsakda/unit-conversions",
     "description": "This is my package UnitConversions",
     "keywords": [
         "kravanh",
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Kravanh\\UnitConversions\\": "src"
+            "Ketsakda\\UnitConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Kravanh\\UnitConversions\\Tests\\": "tests"
+            "Ketsakda\\UnitConversions\\Tests\\": "tests"
         }
     },
     "scripts": {

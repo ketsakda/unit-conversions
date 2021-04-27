@@ -1,6 +1,6 @@
 <?php
 
-namespace Kravanh\UnitConversions;
+namespace Ketsakda\UnitConversions;
 
 class Weight
 {

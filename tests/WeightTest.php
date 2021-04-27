@@ -1,8 +1,8 @@
 <?php
 
-namespace Kravanh\UnitConversions\Tests;
+namespace Ketsakda\UnitConversions\Tests;
 
-use Kravanh\UnitConversions\Weight;
+use Ketsakda\UnitConversions\Weight;
 use PHPUnit\Framework\TestCase;
 
 class WeightTest extends TestCase
